@@ -67,6 +67,4 @@ or view the PDF report directly.
 
 This project is for educational and demonstration purposes.
 
----
 
-**Good luck with your submission! If you need a more tailored README or further help, just ask.**
