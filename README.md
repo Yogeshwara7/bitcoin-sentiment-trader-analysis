@@ -39,12 +39,13 @@ This project explores the relationship between Bitcoin market sentiment (Fear & 
 
 1. Clone this repository:
 git clone https://github.com/yogeshwara7/bitcoin-sentiment-trader-analysis.git
+
 cd bitcoin-sentiment-trader-analysis
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
-3. Open and run the analysis notebook:
+4. Open and run the analysis notebook:
 jupyter notebook analysis.ipynb
 
 or view the PDF report directly.
